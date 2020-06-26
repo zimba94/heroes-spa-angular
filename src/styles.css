@@ -4,6 +4,10 @@ body {
     padding-bottom: 50px;
 }
 
+.logo {
+    width: 120px;
+}
+
 .main-container {
     margin-top: 20px;
 }
