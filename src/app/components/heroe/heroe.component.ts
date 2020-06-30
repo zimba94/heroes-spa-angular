@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-  import { from } from 'rxjs';
+import { from } from 'rxjs';
 import { HeroesService } from '../../servicios/heroes.service';
 
 @Component({
